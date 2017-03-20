@@ -1,0 +1,10 @@
+{
+  "name": "core-lib",
+  "version": "1.0.0",
+  "description": "DB models",
+  "author": "Juan Coll Soler",
+  "license": "ISC",
+  "devDependencies": {
+    "merge2": "^1.0.3"
+  }
+}

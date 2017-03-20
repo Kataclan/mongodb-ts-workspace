@@ -1,0 +1,10 @@
+{
+    "name": "app-lib",
+    "version": "1.0.0",
+    "description": "Components for apps and frontEnd",
+    "author": "Juan Coll Soler",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/googlemaps": "^3.26.1"
+    }
+}

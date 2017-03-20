@@ -1,0 +1,6 @@
+{
+    "wwwroot": "../mongodb-ts-workspace/dist/debug/",
+    "listenPort": "50000",
+    "startMessage": "listen on port 50000",
+    "mongodbUrl": "YOUR MONGO DB URL"
+}
